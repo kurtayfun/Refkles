@@ -2,7 +2,7 @@
 
 Mobil dikey ekranlar için tasarlanmış, tek dosyalık bir HTML5 refleks/reaksiyon oyunu. Kurulum yok, derleme yok — dosyayı açtığın an oynanır.
 
-**[▶ Oyna](https://KULLANICI_ADIN.github.io/REPO_ADIN/refleks-oyunu.html)**
+**[▶ Oyna](https://KULLANICI_ADIN.github.io/REPO_ADIN/index.html)**
 
 > Yukarıdaki linki GitHub Pages'te yayına aldıktan sonra kendi kullanıcı adın ve repo adınla güncelle.
 
